@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteopacity">#F5F5F5</color>
+    <color name="whitebackround">#EBEBEB</color>
+    <color name="opacityfont">#000000</color>
+    <color name="redfont">#EC0909</color>
+    <color name="greenfont">#10B90A</color>
+    <color name="maingempabumi">#733A2A</color>
+    <color name="maintsunami">#747F8A</color>
+    <color name="mainGLB">#523C3E</color>
+    <color name="mainkebakaran">#BD6026</color>
+    <color name="mainangintopan">#2A3445</color>
+    <color name="mainkekeringan">#523C3E</color>
+    <color name="mainbanjir">#2C4151</color>
+    <color name="mainwabah">#2C4151</color>
+</resources>
